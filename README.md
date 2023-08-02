@@ -1,11 +1,12 @@
 # Data Science Free Sources
-List of resources to learn data science, from Statistics, SQL, R, Python and more.
+List of resources to learn Data Science, from Statistics, SQL, R, Python and more.
 I am a student looking to pursue a career in data science so these recommendations are based on web browsing and online research. My purpose is to share this knowledge with those who may find these resources useful, any recommendation you can make through pull requests, I would appreciate it, thank you!
 ## Index   
 1. [Python](#id1)
 2. [Data Science Fundamentals](#id2)
 3. [SQL](#id3)
 4. [Statistics](#id4)
+5. [R](#id5)
 ## Python <a name="id1"></a>
 - [Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science)
 - [Data Visualization with Python](https://cognitiveclass.ai/courses/data-visualization-python)
@@ -19,6 +20,10 @@ I am a student looking to pursue a career in data science so these recommendatio
 ## Databases <a name= id3><a/>
 - [SQL and Relational Databases 101](https://cognitiveclass.ai/courses/learn-sql-relational-databases)
 - [Relational Database](https://www.freecodecamp.org/learn/relational-database/)
+- [SQL Tutorial](https://www.w3schools.com/sql/default.asp)
 ## Statistics <a name="id4"><a/>
 - [Statistics 101](https://cognitiveclass.ai/courses/statistics-101)
 - [Statistics Tutorial](https://www.w3schools.com/statistics/index.php)
+## R <a name="id5"><a/>
+- [R Tutorial](https://www.w3schools.com/r/default.asp)
+- 
