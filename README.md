@@ -6,7 +6,8 @@ I am a student looking to pursue a career in data science so these recommendatio
 2. [Data Science Fundamentals](#id2)
 3. [SQL](#id3)
 4. [Statistics](#id4)
-5. [R](#id5)
+5. [Analytics](#id5)
+6. [R](#id6)
 ## Python <a name="id1"></a>
 - [Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science)
 - [Data Visualization with Python](https://cognitiveclass.ai/courses/data-visualization-python)
@@ -24,6 +25,8 @@ I am a student looking to pursue a career in data science so these recommendatio
 ## Statistics <a name="id4"><a/>
 - [Statistics 101](https://cognitiveclass.ai/courses/statistics-101)
 - [Statistics Tutorial](https://www.w3schools.com/statistics/index.php)
+## Analytics 
+- [Data Analytics Course](https://howtobreakintotech.com/free-data-analytics-course/)
 ## R <a name="id5"><a/>
 - [R Tutorial](https://www.w3schools.com/r/default.asp)
 - 
